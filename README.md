@@ -10,5 +10,7 @@
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 - 🌱 I’m currently learning : ASP.NET, JS with React, HTML, CSS
+<!-- 
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scrabblet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
